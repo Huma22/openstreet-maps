@@ -8,7 +8,7 @@ Working with the project
 
 
 
-Compile the project
+
 
 Linux and Mac
 
