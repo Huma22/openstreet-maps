@@ -5,9 +5,9 @@ CampusMap is a console app that helps the user navigate UIC's campus. The projec
 
 Working with the project
 
-Clone the project
 
-git clone https://github.com/ayaanqui/uic-campus-map.git
+
+
 Compile the project
 
 Linux and Mac
